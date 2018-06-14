@@ -1,0 +1,25 @@
+{
+  "name": "reactwebpackstarter",
+  "version": "1.0.0",
+  "description": "POC of using React with Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uqmessias/react-webpack-starter"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "react-dom",
+    "poc"
+  ],
+  "author": "Uilque Messias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uqmessias/react-webpack-starter/issues"
+  },
+  "homepage": "https://github.com/uqmessias/react-webpack-starter#readme"
+}
